@@ -8,7 +8,7 @@
 - Haidaruddin Muhammad Ramdhan      (1301204459) [haidarx@student.telkomuniversity.ac.id]
 - Muhammad Dimas Rifki Irianto      (1301204112) [dimasrfq@student.telkomuniversity.ac.id]
 - Muhammad Hiksal Daeng Jusuf Bauw  (1301204416) [hiksal@student.telkomuniversity.ac.id]
-
+.
 ## Deskripsi Tugas Besar
 FTP (Unggah dan Unduh File)
 - Membuat program yang berfungsi agar banyak client dapat mengunggah dan mengunduh file ke dan dari server secara paralel.
