@@ -4,9 +4,9 @@
 ![image](https://user-images.githubusercontent.com/49301219/210217612-4802bf5f-02d3-45cb-81e4-c6d35947355c.png)
 
 ## Member of the Sri Pandita Group
-- Muhammad Dimas Rifki Irianto      (1301204112) [dimasrfq@student.telkomuniversity.ac.id]
 - Ahmad Fasya Adila                 (1301204231) [ahmadfasya@student.telkomuniversity.ac.id]
 - Haidaruddin Muhammad Ramdhan      (1301204459) [haidarx@student.telkomuniversity.ac.id]
+- Muhammad Dimas Rifki Irianto      (1301204112) [dimasrfq@student.telkomuniversity.ac.id]
 - Muhammad Hiksal Daeng Jusuf Bauw  (1301204416) [hiksal@student.telkomuniversity.ac.id]
 
 ## Deskripsi Tugas Besar
@@ -39,7 +39,7 @@ FTP (Unggah dan Unduh File)
 
 
 ## Credits
-- "Allah SWT"
+- "Allah swt."
 - "GitHub"
 - "Visual Studio Code"
 - "Ehmad Saeed: https://github.com/justEhmadSaeed/Python-Sockets-File-Transfer"
